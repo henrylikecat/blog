@@ -22,12 +22,15 @@
 }
 #div2{
     background-color: lightskyblue;
-    height: 135px;
+    height: 190px;
 }
 #where1{
     margin-left: 10px;
 }
-.div31{
+.div31 img{
     height: 300px;
     width: 300px;
+}
+#button1{
+    margin-left: 20px;
 }
