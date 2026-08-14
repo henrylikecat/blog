@@ -34,3 +34,8 @@
 #button1{
     margin-left: 20px;
 }
+#carousel1 img{
+    width: 90%;
+    height: 100%;
+    margin-left: 100px;
+}
